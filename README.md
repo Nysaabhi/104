@@ -759,7 +759,7 @@ const searchConfig = {
           actionButtons: [
               {
                   label: 'Recharge Now',
-                  url: '/recharge',
+                  url: 'https://paytm.com/recharge',
                   icon: 'fa-mobile'
               }
           ],
